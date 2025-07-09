@@ -1,0 +1,22 @@
+{
+  "name": "slam",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/inter": "^5.2.6",
+    "@fontsource/jetbrains-mono": "^5.2.6",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
+    "react": "^18.2.0",
+    "react-circular-progressbar": "2.2.0",
+    "react-dom": "^18.2.0",
+    "react-force-graph-2d": "^1.26.1",
+    "react-scripts": "5.0.1"
+  }
+}
